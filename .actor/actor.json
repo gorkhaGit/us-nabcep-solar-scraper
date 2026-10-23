@@ -1,0 +1,17 @@
+{
+  "actorSpecification": 1,
+  "name": "us-nabcep-solar-scraper",
+  "title": "US NABCEP Solar Installers & Accredited Companies Scraper",
+  "description": "Extract 6,750+ NABCEP Board Certified Solar Professionals, Associates, and Accredited Solar Installation Companies (with CEO/Owner names, company websites, certification numbers, veteran status, and locations).",
+  "version": "0.1",
+  "buildTag": "latest",
+  "meta": {
+    "templateId": "python-start"
+  },
+  "input": "./input_schema.json",
+  "output": "./output_schema.json",
+  "storages": {
+    "dataset": "./dataset_schema.json"
+  },
+  "dockerfile": "../Dockerfile"
+}

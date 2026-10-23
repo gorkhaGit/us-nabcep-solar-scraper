@@ -1,0 +1,72 @@
+{
+    "title": "US NABCEP Solar Directory Scraper Input",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "includeAccreditedCompanies": {
+            "title": "Include NABCEP Accredited Companies (CEO/Owner Leads)",
+            "type": "boolean",
+            "description": "Extract NABCEP Accredited Solar Installation Companies from nabcep.org/accredited/ (includes Company Name, CEO/Owner Name & Title, Street Address, City, State, Zip, and Website).",
+            "default": true
+        },
+        "certType": {
+            "title": "Certification Tier Filter",
+            "type": "string",
+            "description": "Filter the 6,751 directory listings by NABCEP tier: All, Board Certified Professionals (2,673), or Associates (4,078).",
+            "enum": ["all", "professional", "associate"],
+            "default": "all"
+        },
+        "country": {
+            "title": "Country Filter (Optional)",
+            "type": "string",
+            "description": "Filter by country slug (e.g., 'usa', 'canada', 'puerto-rico'). Leave empty for all countries.",
+            "editor": "textfield",
+            "default": ""
+        },
+        "state": {
+            "title": "US State / Province Filter (Optional)",
+            "type": "string",
+            "description": "Filter by state/province name or 2-letter code (e.g., 'CA', 'TX', 'FL', 'IL'). Leave empty for all states.",
+            "editor": "textfield",
+            "default": ""
+        },
+        "searchQuery": {
+            "title": "Keyword / Company / Name Search (Optional)",
+            "type": "string",
+            "description": "Search by installer name, company name, or certification number.",
+            "editor": "textfield",
+            "default": ""
+        },
+        "onlyWithCompanyOrWebsite": {
+            "title": "Only Keep Records With Company Name or Website",
+            "type": "boolean",
+            "description": "When enabled, skips individual installers who did not list an employer/company name or website URL.",
+            "default": false
+        },
+        "maxItems": {
+            "title": "Max Items",
+            "type": "integer",
+            "description": "Maximum number of records to extract (0 = unlimited, extracts all matching records).",
+            "default": 100,
+            "minimum": 0
+        },
+        "concurrency": {
+            "title": "Concurrent Page Requests",
+            "type": "integer",
+            "description": "Number of directory pages to fetch in parallel via HTTP.",
+            "default": 5,
+            "minimum": 1,
+            "maximum": 10
+        },
+        "proxyConfiguration": {
+            "title": "Proxy Configuration",
+            "type": "object",
+            "description": "Optional proxy settings. Works without proxies for light runs; enable Apify Proxy for full 6,750+ record extractions.",
+            "editor": "proxy",
+            "default": {
+                "useApifyProxy": false
+            }
+        }
+    },
+    "required": []
+}

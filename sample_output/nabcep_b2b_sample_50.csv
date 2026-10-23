@@ -1,0 +1,51 @@
+record_type,company,name,website,certification_tier,primary_certification,primary_cert_number,primary_cert_expires,street_address,city,state,postal_code,country,is_veteran
+accredited_company,"Bob Heinmiller Air Conditioning, Inc.","Mark & Linda Derringer, Owners",https://www.bobheinmillersolar.com,NABCEP Accredited Company,NABCEP Company Accreditation,,,1537 West Smith Street,Orlando,FL,32804,USA,False
+accredited_company,"A1A Solar Contracting, Inc.","Pete Wilking, CEO & President",https://www.a1asolar.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,10418 New Berlin Rd. – UNIT 223,Jacksonville,FL,32226,USA,False
+accredited_company,Araybeam Corp.,"John Holt, CEO & President",http://araybeam.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,6175 Chicamuxen Road,Indian Head,MD,20640,USA,False
+accredited_company,Lumina,Colin Gload – Co-founder and CRO,http://www.luminasolar.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,3600 Commerce Drive Suite 601,Baltimore,MD,11227,USA,False
+accredited_company,MaxSolar,450 Raritan Center Parkway – Suite E,https://www.max-solar.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,"Edison, NJ 08837",,New Jersey,,USA,False
+accredited_company,Yes Solar Solutions,"Stew & Kathy Miller, Owners",http://yessolarsolutions.com,NABCEP Accredited Company,NABCEP Company Accreditation,,,202 N. Dixon Ave.,Cary,NC,27513,USA,False
+accredited_company,Rhino Renewables Solar & Electric,"Jacob Benton, Founder & Operations Manager",https://rhinorenewableswnc.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,611 Rose Hill Rd.,Asheville,NC,28803,USA,False
+accredited_company,Sunshine Renewable Solutions,"Jeffrey Shed, Owner & Sustainable Development",https://www.sunshinerenewable.com/,NABCEP Accredited Company,NABCEP Company Accreditation,,,6033 S Loop E Fwy,Houston,TX,77033,USA,False
+accredited_company,NOVA Solar,"Barklie Estes, President",http://www.novasolar.com,NABCEP Accredited Company,NABCEP Company Accreditation,,,3305 Dye Drive,Falls Church,VA,22042,USA,False
+accredited_company,Northwest Solar and Electric,"Ian Robinson, Energy Program Manager",http://www.nwsolar.com,NABCEP Accredited Company,NABCEP Company Accreditation,,,18001 73rd Ave NE,Kenmore,WA,98028,USA,False
+accredited_company,Certifications,NABCEP Board Certifications,https://certifications/nabcep-board-certifications/,NABCEP Accredited Company,NABCEP Company Accreditation,,,Associate Program,Company Accreditation,Washington,,USA,False
+accredited_company,Education & Training,NABCEP Course Catalog,https://coursecatalog.nabcep.org/,NABCEP Accredited Company,NABCEP Company Accreditation,,,,,Washington,,USA,False
+accredited_company,Resources,Certification Handbook,https://www.nabcep.org/wp-content/uploads/2023/01/Handbook-2023-Final.pdf,NABCEP Accredited Company,NABCEP Company Accreditation,,,Associate Handbook,Resources,Washington,,USA,False
+accredited_company,Professional Directories,Board Certified Directory,https://directories.nabcep.org/?_certtypes=professional,NABCEP Accredited Company,NABCEP Company Accreditation,,,Associate Directory,NABCEP Accredited Companies,Washington,,USA,False
+accredited_company,Contact Us,"56 Clifton Country Rd., Suite 202",https://mailto:info@nabcep.org,NABCEP Accredited Company,NABCEP Company Accreditation,,,"Clifton Park, NY 12065",(800) 654-0021,Washington,,USA,False
+certified_directory_member,Power Northwest,Darren Aaserude,https://powernw.com,Board Certified Professional,PV Installation Professional (PVIP),PV-052026-014300,05-19-2029,,Portland,OR,97210,USA,True
+certified_directory_member,RNB.ENERGY,Carlos Abad,https://www.rnb.energy,Board Certified Professional,PV Installation Professional (PVIP),PV-102216-010747,12-22-2028,,Miami,FL,33154,USA,False
+certified_directory_member,Tick Tock Energy,Wyatt Abbott,https://www.ticktockenergy.com/solar-energy-systems/?gad_source=1&gclid=CjwKCAiAm-67BhBlEiwAEVftNqgx927P4wGaq3gRSF5VrG_RS_fmapzODJOiUCrPcmPCdKjPiqKvWhoCg-4QAvD_BwE,Associate,PV Associate (PVA),PVA-021425-016955,02-12-2028,,Effingham,IL,62401,United States,False
+certified_directory_member,CustomSmart Homes & Solar,Braeden Ables,https://customsmarthomes.net/solar-design-installation/,Associate,PV Associate (PVA),PVA-072726-018532,07-24-2029,,Piney Flats,TN,37686,USA,False
+certified_directory_member,All Energy Solar,Michael Abramson,https://www.allenergysolar.com/,Board Certified Professional,,,,,St. Paul,MN,55108,USA,False
+certified_directory_member,"Savant Systems, Inc.",Patrick Abruzzo,https://savant.com,Associate,PV Associate (PVA),PVA-071224-016310,06-25-2027,,Hyannis,MA,02601,USA,False
+certified_directory_member,"GreenSun, LLC",Robert Ackroyd,https://www.mainegreensolutions.com,Board Certified Professional,PV Installation Professional (PVIP),PV-041115-009823,06-11-2027,,Windham,ME 4062,,USA,False
+certified_directory_member,Central South Carpenters Training Trust Fund,Justin Adair,https://centralsouthcarpenters.org,Associate,PV Associate (PVA),PVA-020524-015825,02-04-2027,,Austin,TX,78741,United States,False
+certified_directory_member,Ollo,Brian Adams,,Board Certified Professional,PV Installation Professional (PVIP),110112-1,11-01-2027,,Charlotte,NC,28277,USA,False
+certified_directory_member,"Clinton Electric, Inc.",Joshua Adams,https://www.clintonelectricinc.com,Board Certified Professional,PV Installation Professional (PVIP),PV-102117-017088,12-21-2026,,Mt. Vernon,IL,62864,USA,False
+certified_directory_member,8mSolar,Kevin Adams,https://8msolar.com/,Associate,PV Associate (PVA),PVA-032821-036637,05-28-2027,,Raleigh,NC,27616,USA,False
+certified_directory_member,GRID Alternatives,Chiquita Adams,https://gridalternatives.org,Associate,PV Associate (PVA),PVA-040725-017098,04-04-2028,,Oakland,CA,94608,USA,False
+certified_directory_member,Mile High Solar Maintenance,Michael Adie,,Associate,PV Associate (PVA),PVA-060724-016182,05-26-2027,,Conifer,CO,80433,USA,False
+certified_directory_member,Already Gold Solar and Electric LLC,Thomas Afton,https://www.alreadygoldsolar.com,Board Certified Professional,PV Installation Professional (PVIP),PV-061722-013727,06-10-2028,,Denver,CO,80223,USA,False
+certified_directory_member,Applied Materials India,Dr. Ashwini Kumar Aggarwal,https://www.amat.com,Associate,PV Associate (PVA),PVA-061420-033215,08-14-2029,,Faridabad,Haryana 121006,,IN,False
+certified_directory_member,ENGINEERINC,Areg Aghayants,https://engineerinc.io,Board Certified Professional,PV Installation Professional (PVIP),PV-100324-014085,10-02-2027,,Burbank,CA,91502,USA,False
+certified_directory_member,J. Ranck Electric Inc.,Patrick J. Agin,https://jranck.com,Board Certified Professional,PV Installation Professional (PVIP),PV-092223-013914,09-21-2029,,Mt. Pleasant,MI,48858,USA,False
+certified_directory_member,Eagle Solar Power,Diego Aguilera,https://www.eaglesolarpower.com,Associate,PV Associate (PVA),PVA-022719-020958,04-27-2028,,Mansfield,TX,76063,USA,False
+certified_directory_member,Aurora Solar,Oscar Aguilera,https://aurorasolar.com,Associate,PV Associate (PVA),PVA-071423-015352,07-13-2029,,San Francisco,CA,94805,USA,False
+certified_directory_member,Camelot Energy Group,Michelle Aguirre,https://www.camelotenergygroup.com/,Board Certified Professional,PV Installation Professional (PVIP),PV-022026-014265,02-19-2029,,West Harrison,NY,10604,USA,False
+certified_directory_member,PFAT ENERGY SOLUTIONS REGISTERED AS PFAT MULTICONCEPT LTD,Pius Aideloje,https://g.co/kgs/uUsdkny,Associate,PV Associate (PVA),PVA-080125-017489,07-31-2028,,BENIN,EDO STATE 300283,,NG,False
+certified_directory_member,AE Solar Design,Philip Aiello,https://aesolardesign.com/,Board Certified Professional,PV Installation Professional (PVIP),051112-1,05-11-2027,,Marmora,NJ,08223,USA,False
+certified_directory_member,"Ailey Solar Electric, Inc.",John Ailey,https://aileysolar.com,Board Certified Professional,PV Installation Professional (PVIP),PV-041214-004605,06-12-2029,,Chicago,IL,60609,USA,False
+certified_directory_member,Philadelphia Solar,Izz Al-Deen Al-Nsour,https://philadelphia-solar.com/,Board Certified Professional,PV Installation Professional (PVIP),PV-030924-013988,03-08-2027,,Amman,11814,,JO,False
+certified_directory_member,Roofio,Babajide Alake,https://roofio.com/,Board Certified Professional,PV Installation Professional (PVIP),PV-083019-014829,10-30-2028,,Arverne,NY,11692,USA,False
+certified_directory_member,ReVision Energy,Hans Albee,https://www.revisionenergy.com,Board Certified Professional,PV Installation Professional (PVIP),PV-100414-010499,12-04-2026,,Brooks,ME,04921,USA,False
+certified_directory_member,Advanced Energy Systems,Alan Alberg,https://www.advancedenergy.systems,Board Certified Professional,,,,,Sturgeon Lake,MN,55783,USA,False
+certified_directory_member,Laketricity,Rebecca Alberti,,Board Certified Professional,PV Design Specialist (PVDS),PVDS-120421-013583,12-03-2027,,Petaluma,CA,94954,USA,False
+certified_directory_member,AA Live Bee Removal,Emil Albrecht,,Board Certified Professional,PV Installation Professional (PVIP),110112-2,11-01-2027,,Santa Rosa Beach,FL,32459,USA,False
+certified_directory_member,Freedom Forever,Gregory Albright,https://Freedom Forever,Board Certified Professional,PV Installation Professional (PVIP),PV-041019-018963,06-10-2028,,Temecula,CA,92590,USA,False
+certified_directory_member,UGEI,Gustavo Alcaraz,https://ugei.com/,Board Certified Professional,PV Design Specialist (PVDS),PVDS-110623-013716,11-04-2026,,Toronto,Ontario M5H 3V5,,CAN,False
+certified_directory_member,HelioVolta,Curtis Alexander,,Board Certified Professional,,,,,Raleigh,NC,27612,USA,False
+certified_directory_member,Southern Energy Management,Joseph Alexander,https://www.southern-energy.com,Board Certified Professional,PV Technical Sales Professional (PVTS),PVTS012911-03,02-28-2029,,Raleigh,NC,27608,USA,False
+certified_directory_member,Live Solar,Anthony Alexander,https://www.LiveSolar.NYC,Board Certified Professional,PV Installation Professional (PVIP),PV-060723-013878,06-05-2029,,Staten Island,NY,10309,USA,False
+certified_directory_member,Tahoe Solar Designs,Bret Alexander,https://tahoesolardesigns.com,Board Certified Professional,PV Installation Professional (PVIP),032407-1,04-25-2025,,South Lake Tahoe,CA,96150,USA,False

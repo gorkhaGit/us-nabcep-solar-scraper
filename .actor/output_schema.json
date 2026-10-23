@@ -1,0 +1,11 @@
+{
+  "actorOutputSchemaVersion": 1,
+  "title": "US NABCEP Solar Scraper Output",
+  "properties": {
+    "overview": {
+      "type": "string",
+      "title": "Solar Leads Overview",
+      "template": "{{links.apiDefaultDatasetUrl}}/items?view=overview"
+    }
+  }
+}

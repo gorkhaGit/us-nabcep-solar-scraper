@@ -1,0 +1,56 @@
+{
+  "actorSpecification": 1,
+  "fields": {
+    "type": "object",
+    "properties": {
+      "record_type": { "type": "string", "title": "Record Type" },
+      "company": { "type": "string", "title": "Company Name" },
+      "name": { "type": "string", "title": "Name / Decision Maker" },
+      "website": { "type": "string", "title": "Website" },
+      "certification_tier": { "type": "string", "title": "Tier" },
+      "primary_certification": { "type": "string", "title": "Primary Certification" },
+      "primary_cert_number": { "type": "string", "title": "Cert Number" },
+      "primary_cert_expires": { "type": "string", "title": "Cert Expires" },
+      "street_address": { "type": "string", "title": "Street Address" },
+      "city": { "type": "string", "title": "City" },
+      "state": { "type": "string", "title": "State" },
+      "postal_code": { "type": "string", "title": "Postal Code" },
+      "country": { "type": "string", "title": "Country" },
+      "is_veteran": { "type": "boolean", "title": "US Veteran" },
+      "source_url": { "type": "string", "title": "Source URL" }
+    }
+  },
+  "views": {
+    "overview": {
+      "title": "Overview",
+      "description": "Verified US NABCEP solar companies and certified professionals.",
+      "transformation": {
+        "fields": [
+          "record_type",
+          "company",
+          "name",
+          "website",
+          "certification_tier",
+          "primary_certification",
+          "city",
+          "state",
+          "is_veteran"
+        ]
+      },
+      "display": {
+        "component": "table",
+        "properties": {
+          "record_type": { "label": "Type", "format": "text" },
+          "company": { "label": "Company", "format": "text" },
+          "name": { "label": "Name / CEO", "format": "text" },
+          "website": { "label": "Website", "format": "link" },
+          "certification_tier": { "label": "Tier", "format": "text" },
+          "primary_certification": { "label": "Certification", "format": "text" },
+          "city": { "label": "City", "format": "text" },
+          "state": { "label": "State", "format": "text" },
+          "is_veteran": { "label": "Veteran", "format": "boolean" }
+        }
+      }
+    }
+  }
+}

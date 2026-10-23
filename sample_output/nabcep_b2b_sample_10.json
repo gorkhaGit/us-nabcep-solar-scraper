@@ -1,0 +1,282 @@
+[
+  {
+    "record_type": "accredited_company",
+    "name": "Mark & Linda Derringer, Owners",
+    "company": "Bob Heinmiller Air Conditioning, Inc.",
+    "website": "https://www.bobheinmillersolar.com",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "1537 West Smith Street",
+    "city": "Orlando",
+    "state": "FL",
+    "state_full": "Florida",
+    "postal_code": "32804",
+    "country": "USA",
+    "location_raw": "Orlando, FL 32804",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Pete Wilking, CEO & President",
+    "company": "A1A Solar Contracting, Inc.",
+    "website": "https://www.a1asolar.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "10418 New Berlin Rd. \u2013 UNIT 223",
+    "city": "Jacksonville",
+    "state": "FL",
+    "state_full": "Florida",
+    "postal_code": "32226",
+    "country": "USA",
+    "location_raw": "Jacksonville, FL 32226",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "John Holt, CEO & President",
+    "company": "Araybeam Corp.",
+    "website": "http://araybeam.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "6175 Chicamuxen Road",
+    "city": "Indian Head",
+    "state": "MD",
+    "state_full": "Maryland",
+    "postal_code": "20640",
+    "country": "USA",
+    "location_raw": "Indian Head, MD 20640",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Colin Gload \u2013 Co-founder and CRO",
+    "company": "Lumina",
+    "website": "http://www.luminasolar.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "3600 Commerce Drive Suite 601",
+    "city": "Baltimore",
+    "state": "MD",
+    "state_full": "Maryland",
+    "postal_code": "11227",
+    "country": "USA",
+    "location_raw": "Baltimore MD 11227",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "450 Raritan Center Parkway \u2013 Suite E",
+    "company": "MaxSolar",
+    "website": "https://www.max-solar.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "Edison, NJ 08837",
+    "city": "",
+    "state": "New Jersey",
+    "state_full": "New Jersey",
+    "postal_code": "",
+    "country": "USA",
+    "location_raw": "",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Stew & Kathy Miller, Owners",
+    "company": "Yes Solar Solutions",
+    "website": "http://yessolarsolutions.com",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "202 N. Dixon Ave.",
+    "city": "Cary",
+    "state": "NC",
+    "state_full": "North Carolina",
+    "postal_code": "27513",
+    "country": "USA",
+    "location_raw": "Cary, NC 27513",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Jacob Benton, Founder & Operations Manager",
+    "company": "Rhino Renewables Solar & Electric",
+    "website": "https://rhinorenewableswnc.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "611 Rose Hill Rd.",
+    "city": "Asheville",
+    "state": "NC",
+    "state_full": "North Carolina",
+    "postal_code": "28803",
+    "country": "USA",
+    "location_raw": "Asheville, NC 28803",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Jeffrey Shed, Owner & Sustainable Development",
+    "company": "Sunshine Renewable Solutions",
+    "website": "https://www.sunshinerenewable.com/",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "6033 S Loop E Fwy",
+    "city": "Houston",
+    "state": "TX",
+    "state_full": "Texas",
+    "postal_code": "77033",
+    "country": "USA",
+    "location_raw": "Houston, TX 77033",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Barklie Estes, President",
+    "company": "NOVA Solar",
+    "website": "http://www.novasolar.com",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "3305 Dye Drive",
+    "city": "Falls Church",
+    "state": "VA",
+    "state_full": "Virginia",
+    "postal_code": "22042",
+    "country": "USA",
+    "location_raw": "Falls Church, VA 22042",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  },
+  {
+    "record_type": "accredited_company",
+    "name": "Ian Robinson, Energy Program Manager",
+    "company": "Northwest Solar and Electric",
+    "website": "http://www.nwsolar.com",
+    "certification_tier": "NABCEP Accredited Company",
+    "primary_certification": "NABCEP Company Accreditation",
+    "primary_cert_number": "",
+    "primary_cert_expires": "",
+    "certifications": [
+      {
+        "title": "NABCEP Company Accreditation",
+        "cert_number": "",
+        "expires": ""
+      }
+    ],
+    "street_address": "18001 73rd Ave NE",
+    "city": "Kenmore",
+    "state": "WA",
+    "state_full": "Washington",
+    "postal_code": "98028",
+    "country": "USA",
+    "location_raw": "Kenmore, WA 98028",
+    "is_veteran": false,
+    "candidate_id": "",
+    "contact_form_url": "",
+    "source_url": "https://www.nabcep.org/accredited/"
+  }
+]
